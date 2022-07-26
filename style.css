@@ -12,15 +12,7 @@
 box-sizing: border-box;
 }
 
-body{
-    background: #1C1C1C;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    min-height: 100vh;
-}
 section#container{
-   
     background-color: #1F2937;
     min-height: 37vh;
     width: 600px;

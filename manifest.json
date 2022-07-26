@@ -5,11 +5,14 @@
     "description": "With Drop Tab you can add and saves web pages much more efficiently.  Now, no need to clutter your menu bar with bookmarks. Just open chrome, install the extension, and save away. You don’t even need to sign into your Gmail account.",
     "action": {
         "default_popup": "index.html",
-        "default_icon": "icon.png"
+        "default_icon": "droptab.png"
     },
     "permissions": [
         "tabs"
-    ]
+    ],
+    "icons": {
+       "128": "droptab.png"
+     }
 }
 
 

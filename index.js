@@ -37,7 +37,7 @@ deleteBtn.addEventListener("dblclick", function () {
 
 function checkInput() {
   if (inputEl.value.length >= 1) {
-    myLeads.push(inputEl.value);
+    myLeads.push("https://" + inputEl.value);
   }
 }
 
@@ -46,4 +46,11 @@ inputBtn.addEventListener("click", function () {
   inputEl.value = "";
   localStorage.setItem("myLeads", JSON.stringify(myLeads));
   render(myLeads);
+});
+
+inputEl.addEventListener("keypress", function (event) {
+  if (event.key === "Enter") {
+    event.preventDefault();
+    inputBtn.click();
+  }
 });
