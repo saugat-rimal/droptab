@@ -1,5 +1,7 @@
 # Drop Tab  – Best bookmark tool for visiting later
 
+Ever stumble upon an article that looks really intriguing to read? If so, have you ever been conflicted to bookmark the article and risk it getting lost in the chaos of your other bookmarks? Sounds like Drop Tab might be the right tool for you then.
+
 With Drop Tab you can add and saves web pages much more efficiently.  Now, no need to clutter your menu bar with bookmarks. 
 
 ## Table of contents
@@ -21,7 +23,10 @@ With Drop Tab you can add and saves web pages much more efficiently.  Now, no ne
 
 Users should be able to:
 
-- Generate the secured password to be safe from hacking 
+- Save input data by writing in the input firld and clicking on save input
+- Save the current tab so they can get access in future
+- Delete all the current listed tabs 
+
 
 ### Screenshot
 
@@ -30,8 +35,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Code](https://github.com/saugat-rimal/PasswordGenerator/)
-- Live Site URL: [Live site ](https://random-passwordgenerator.vercel.app/)
+- Solution URL: [Github Code]https://github.com/saugat-rimal/droptab/)
+- Live Site URL: [Live site ](https://saugat-rimal.github.io/droptab/)
 
 ## My process
 
@@ -66,12 +71,11 @@ Users should be able to:
 
 ## Conclusion
 
-You can use this password generator for making your accounts secured.You can generate a password of 6 to 25 words containing letters, symbols, and numbers. 
-As well as you can also define your own length of the password from 6 words to 25 words.
+Drop Tab is a simple chrome extension that saves web pages much more efficiently. This chrome extension makes it easy to quickly bookmark the current tab for future visits. No need to clutter your menu bar with bookmarks. Just open chrome, install the extension, and save away. You don’t even need to sign into your Gmail account.
 
 Hope it will be useful and you will love it. ❤️
 
 
 > **Note**
->This is an opensourse project so feel free to add any kinds of features and function you like.!! Hope you will make it perfect.
+>This is an opensourse project so feel free to add any kinds of features and function you like.!!
 
