@@ -38,6 +38,7 @@ Users should be able to:
 
 - Solution URL: [Github Code](https://github.com/saugat-rimal/droptab/)
 - Live Site URL: [Live site ](https://saugat-rimal.github.io/droptab/)
+- Download: [Download Zip](https://github.com/saugat-rimal/droptab/archive/refs/heads/master.zip)
 
 ## My process
 
