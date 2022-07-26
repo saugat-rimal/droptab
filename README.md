@@ -35,7 +35,7 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Github Code]https://github.com/saugat-rimal/droptab/)
+- Solution URL: [Github Code](https://github.com/saugat-rimal/droptab/)
 - Live Site URL: [Live site ](https://saugat-rimal.github.io/droptab/)
 
 ## My process
@@ -54,10 +54,15 @@ Users should be able to:
 - [JavaScript Number Methods](https://www.w3schools.com/js/js_number_methods.asp) - This helped me to convert the string into the number.
 - [HTML DOM Document querySelector](https://www.w3schools.com/jsref/met_document_queryselector.asp) - This helped me to select the classes from html.
 - [EventListener](https://www.w3schools.com/js/js_htmldom_eventlistener.asp) - This helped me to listen the click event to perform calculation.
-- The Math Object
+- Inner Html
 - If else statements
 - Logical Operator
 - For Loops
+- Template Strings
+- localStorage
+- The Json Objects
+- Objects in array
+- Function parameters
 
 
 
