@@ -151,4 +151,10 @@ a{
     background-image: linear-gradient(180deg, #55F991 0%, #10B981 99%);
     box-shadow: inset 2px 2px 5px 0 rgba(#fff, 0.5);
   }
+
+#delete-btn
+  {    
+    background: #273549;
+    color:#10B981;
+  }
   
