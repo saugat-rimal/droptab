@@ -5,6 +5,14 @@ Ever stumble upon an article that looks really intriguing to read? If so, have y
 With Drop Tab you can add and saves web pages much more efficiently.  Now, no need to clutter your menu bar with bookmarks. 
 
 
+## Finally, my extension is released on the chrome web store, please do checkout and give it a star.
+
+Get to the chrome web store: [Chrome Web Store - Drop Tab Extension](https://chrome.google.com/webstore/detail/drop-tab-%E2%80%93-best-bookmark/peogendaipoplnglfflehjgnbkpfpmkj/)
+
+
+
+
+
 ## Table of contents
 
 - [Overview](#overview)
