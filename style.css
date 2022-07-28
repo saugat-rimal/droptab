@@ -42,7 +42,7 @@ div.buttons{
     justify-content: space-around;
 }
 
- button{
+ .button{
     min-width: 130px;
     height: 40px;
     color:  #1F2937;
@@ -59,7 +59,7 @@ div.buttons{
     background: #10B981;
 }
 
-button:hover{
+.button:hover{
     transform: translateY(3px);
     transition: cubic-bezier(0.19, 1, 0.22, 1) 0.3s;
     background-color: #23c38d;
@@ -71,21 +71,22 @@ li {
     box-shadow: 0 1px 3px 0 rgb(0 0 0 / 0.1), 0 1px 2px -1px rgb(0 0 0 / 0.1);
     background-color: #273549;
     margin-top: 10px;
-    padding: 10px;
+    padding: 10px ;
     font-size: 15px;
     border-radius: 6px;
     color: #55F991;
     white-space: nowrap; 
     overflow: hidden;
     text-overflow: ellipsis; 
+    box-sizing: border-box;
+    transition: 0.5s linear;
 
 }
 
 li a {
     list-style: none;
     background-color: #273549;
-    margin-top: 10px;
-    padding: 10px;
+    padding: 0px 5px 0px 0px ;
     font-size: 15px;
     border-radius: 6px;
     color: #55F991;
@@ -93,7 +94,7 @@ li a {
     overflow: hidden;
     text-overflow: ellipsis; 
     cursor: pointer;
-
+    box-sizing: border-box;
 }
 
 #footer-box{
@@ -158,3 +159,27 @@ a{
     color:#10B981;
   }
   
+/* Button cross to delete a certain box */
+
+#deletebox:hover{
+  background-color: #23c38d;
+  color: black;
+}
+
+li.lists-items{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  
+}
+
+#deletebox{
+  background-color:#10B981;
+  cursor: pointer;
+  color:#1F2937;
+  margin-top: -10px;
+  margin-right: -10px;
+  margin-bottom: -10px;
+  padding: 12px 14px;
+}
